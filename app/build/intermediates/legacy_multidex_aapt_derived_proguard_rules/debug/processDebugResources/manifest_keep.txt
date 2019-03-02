@@ -1,0 +1,2 @@
+# Referenced at F:\2nd Space app\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24
+-keep class com.samapps.hp.a2ndspace.LeakApplication { <init>(...); }

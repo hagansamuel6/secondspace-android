@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2nd Space</string>
+    <string name="hostel_about">If you could be bothered, would you please explain how would I reference the View inflated by each fragment from the MainActivity?  I want to be able to create an instance of the class in my MainActivity and pass it references to each </string>
+    <string name="txtCall">Call</string>
+    <string name="action_search">search</string>
+    <string name="search_hint">hostel name</string>
+    <string name="abt_us">We want to improve how hostel search is done for Good! We\'re students too :). More on us soon but for now enjoy the app and give us your feedback.</string>
+    <string name="abt_text">This is the first of awesome things to come, we will update this version very soon. We want you to have the best experience of searching for hostels your way.</string>
+    <string name="feature">Do you have any suggestions on how to improve the app? Email the developer @</string>
+</resources>
