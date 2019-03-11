@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\2nd Space app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Projects\\second-space\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\9a9c23cbcb81a678ed2e89a026ab8771\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Akora Ing. DKB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha02.aar\\110a61561beddc5ca8dcb02dbe6ebce0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\aeced6ac13c97d9f146c49d83c0f32c6\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Akora Ing. DKB\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0-rc01.aar\\d387055ce4aae959b06e426255a0249d\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

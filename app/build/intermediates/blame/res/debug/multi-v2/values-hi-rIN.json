@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\2nd Space app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi-rIN\\values-hi-rIN.xml",
+            "outputFile": "C:\\Projects\\second-space\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi-rIN\\values-hi-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-rides-android-0.5.3.aar\\0a425b1b6e7cac2ad26c3cabf41ce16a\\res\\values-hi-rIN\\values-hi-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,109,173,243,356,461,530",
-                        "endColumns": "53,63,69,112,104,68,57",
-                        "endOffsets": "104,168,238,351,456,525,583"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,9",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,109,173,243,356,461,583",
-                        "endColumns": "53,63,69,112,104,68,57",
-                        "endOffsets": "104,168,238,351,456,525,636"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-android-0.5.3.aar\\9f79473b4692d3647de62d9723fa57aa\\res\\values-hi-rIN\\values-hi-rIN.xml",
+                    "source": "C:\\Users\\Akora Ing. DKB\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-core-android-0.5.3.aar\\f98bccf55b3078c4679b3c08d726d34a\\res\\values-hi-rIN\\values-hi-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,6 +18,23 @@
                         "startOffsets": "530",
                         "endColumns": "52",
                         "endOffsets": "578"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Akora Ing. DKB\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-rides-android-0.5.3.aar\\346e697b4b04b77173ec98336847f5eb\\res\\values-hi-rIN\\values-hi-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,173,243,356,461,530",
+                        "endColumns": "53,63,69,112,104,68,57",
+                        "endOffsets": "104,168,238,351,456,525,583"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,173,243,356,461,583",
+                        "endColumns": "53,63,69,112,104,68,57",
+                        "endOffsets": "104,168,238,351,456,525,636"
                     }
                 }
             ]

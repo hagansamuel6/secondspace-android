@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\2nd Space app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Projects\\second-space\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha01.aar\\9a9c23cbcb81a678ed2e89a026ab8771\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\Akora Ing. DKB\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0-alpha02.aar\\110a61561beddc5ca8dcb02dbe6ebce0\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha02.aar\\99cf1da9929800c0ebfaefee2e68fcc2\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\Akora Ing. DKB\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.1.0-alpha04.aar\\e93670a9fb62a529a4c174bb2367395e\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

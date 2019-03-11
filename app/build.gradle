@@ -33,45 +33,37 @@ android {
     }
 }
 
-
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'androidx.appcompat:appcompat:1.1.0-alpha01'
+    implementation 'androidx.appcompat:appcompat:1.1.0-alpha02'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.0-alpha3'
-    implementation 'com.google.firebase:firebase-messaging:17.3.2'
+    implementation 'com.google.firebase:firebase-messaging:17.4.0'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
 
-    implementation 'com.google.firebase:firebase-core:16.0.1'
-    implementation 'com.google.firebase:firebase-storage:16.0.1'
-    implementation 'com.google.firebase:firebase-database:16.0.1'
-    implementation 'com.google.firebase:firebase-auth:15.0.0'
-
+    implementation 'com.google.firebase:firebase-core:16.0.7'
+    implementation 'com.google.firebase:firebase-storage:16.1.0'
+    implementation 'com.google.firebase:firebase-database:16.1.0'
+    implementation 'com.google.firebase:firebase-auth:16.1.0'
 
     implementation 'com.squareup.picasso:picasso:2.71828'
-    implementation 'com.google.android.material:material:1.1.0-alpha02'
+    implementation 'com.google.android.material:material:1.1.0-alpha04'
 
     implementation 'com.airbnb.android:epoxy:3.1.0'
     // Add the annotation processor if you are using Epoxy's annotations (recommended)
     annotationProcessor 'com.airbnb.android:epoxy-processor:3.1.0'
 
     implementation 'com.github.vivchar:RendererRecyclerViewAdapter:2.6.0'
-
     //simple android carousel
     implementation 'com.synnapps:carouselview:0.1.5'
-
     //sectioned recyclerview
     implementation 'io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:1.2.0'
-
     //custom search view
     implementation 'com.github.arimorty:floatingsearchview:2.1.1'
-
     implementation 'com.miguelcatalan:materialsearchview:1.4.0'
-
     //uber sdk
     implementation 'com.uber.sdk:rides-android:0.5.3'
-
     //multi-dex
     implementation 'com.android.support:multidex:1.0.3'
 
