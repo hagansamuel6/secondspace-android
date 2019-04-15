@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.uber.sdk:rides-android:0.5.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rides-android-0.5.3.aar/7edfc480204c67139a9de6cf23ffddd9/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rides-android-0.5.3.aar/7edfc480204c67139a9de6cf23ffddd9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-rides-android-0.5.3.aar/7edfc480204c67139a9de6cf23ffddd9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.sdk/rides-android/0.5.3/8371f90c273fcb3f0105ce7bfd298dc71b1582f5/rides-android-0.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

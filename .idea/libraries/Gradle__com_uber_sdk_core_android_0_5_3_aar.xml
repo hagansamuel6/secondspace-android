@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.uber.sdk:core-android:0.5.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-core-android-0.5.3.aar/a934c6a6ec03f55604af4864b13750b5/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-core-android-0.5.3.aar/a934c6a6ec03f55604af4864b13750b5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-core-android-0.5.3.aar/a934c6a6ec03f55604af4864b13750b5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uber.sdk/core-android/0.5.3/c6eddc0ea98147f00520a400ab683b48327eb59a/core-android-0.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,4 +1,0 @@
-#Sat Mar 02 14:51:47 GMT 2019
-base.0=F\:\\2nd Space app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
-path.0=classes.dex
-renamed.0=classes.dex
